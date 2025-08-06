@@ -10,25 +10,6 @@ A modern beverage brand landing page built as a clone of the SPYLT website. It f
 - 🎯 GSAP (GreenSock Animation Platform)
 - 🌀 Locomotive Scroll
 
-## 📁 Project Structure
-
-SPYLT-Clone/
-├── public/
-│ ├── images/
-│ ├── fonts/
-│ ├── videos/
-├── src/
-│ ├── components/
-│ ├── sections/
-│ ├── constants/
-│ ├── App.jsx
-│ ├── main.jsx
-├── index.html
-├── package.json
-├── README.md
-└── vite.config.js
-
-
 ## 💻 Getting Started
 
 To run this project locally:
